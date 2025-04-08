@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1013108050023",
+    "project_id": "appunicambio",
+    "storage_bucket": "appunicambio.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1013108050023:android:935f3b650ab6c68e296cc2",
+        "android_client_info": {
+          "package_name": "com.tienda.unichangeapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaIlMph5vxUNVFQK8D8u7TLNimj_YFvyE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

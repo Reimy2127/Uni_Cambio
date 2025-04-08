@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">UniChangeApp</string>
+    <string name="Item_inicio">Inico</string>
+    <string name="items_chats">Chats</string>
+    <string name="items_vender">Vender</string>
+    <string name="items_anuncios">Anuncios</string>
+    <string name="items_cuentas">cuentas</string>
+
+    <string name="tituloRl"> Titulo</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Ingresar_email">Ingresar con Email</string>
+    <string name="Igresar_Google">Ingresar con Google</string>
+    <string name="txt_login">Login de Usuario</string>
+    <string name="Et_Email">Email</string>
+    <string name="Et_Password">Password</string>
+    <string name="Btn_ingresar">Ingresar</string>
+    <string name="Txt_Nocuenta">¿No tienes una cuenta?</string>
+    <string name="Txt_registrarme">Registrame</string>
+    <!--registro-->
+    <string name="Txt_registo">Registro usario</string>
+    <string name="ET_R_Password">Repetir contaseña</string>
+    <string name="Btn_Registrar"> Registrar</string>
+
+    <!--anuncio-->
+    <string name="Et_marca">Nombre de la marca</string>
+    <string name="Categoria">Categoria</string>
+    <string name="Condicion">Condicion</string>
+    <string name="Locacion">Locación</string>
+    <string name="Et_precio">Precio</string>
+    <string name="Et_titulo">Título</string>
+    <string name="Et_descripcion">Descripción</string>
+    <string name="Btn_crear_anuncio">Crear anuncio</string>
+
+</resources>
